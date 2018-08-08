@@ -35,5 +35,7 @@ puts last_student_by_method
 
 
 def first_second_and_third_students
+  STUDENT_NAMES[1,2,3]
+  
+  
   # Write a solution that returns the first, second and third students
-end
